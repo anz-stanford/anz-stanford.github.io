@@ -1,0 +1,27 @@
+---
+---
+
+@import "minima";
+
+.site-header {
+  text-align: center;
+}
+
+.site-header .wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.site-title {
+  margin-bottom: 10px;
+}
+
+.site-nav {
+  position: static;
+  float: none;
+}
+
+.site-nav .trigger {
+  display: block;
+}

@@ -1,0 +1,41 @@
+title: Australia and New Zealand Club at Stanford
+email:
+description: >- # this means to ignore newlines until "."
+  Australia and New Zealand Club at Stanford
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Author information
+author:
+  name: Australia and New Zealand Club at Stanford
+  email:
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minima theme settings
+minima:
+  skin: auto
+
+# Header pages
+header_pages:
+  - index.md
+  - anz-in-ai-forum.md
+  - past-events.md
+
+# Show excerpts on homepage
+show_excerpts: true
+
+# Markdown and LaTeX support
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
+# Exclude these files from the build
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
