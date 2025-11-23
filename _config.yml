@@ -23,8 +23,8 @@ minima:
 # Header pages
 header_pages:
   - index.md
-  - anz-in-ai-forum.md
   - past-events.md
+  - anz-in-ai-forum.md
 
 # Show excerpts on homepage
 show_excerpts: true
