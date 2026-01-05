@@ -11,36 +11,36 @@ Invited panelists/ guests with more to come. Final line-up and program to be con
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; margin: 30px 0;">
   <div style="text-align: center;">
     <img src="/assets/casey.jpeg" alt="Casey" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <p style="margin-top: 10px;">Casey<br>Reflection AI</p>
+    <p style="margin-top: 10px;">Casey Flint<br>Reflection AI</p>
   </div>
   <div style="text-align: center;">
     <img src="/assets/chris.jpeg" alt="Chris" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <p style="margin-top: 10px;">Chris<br>Stanford, AIX Ventures</p>
+    <p style="margin-top: 10px;">Chris Manning<br>Stanford, AIX Ventures</p>
   </div>
   <div style="text-align: center;">
     <img src="/assets/clare.jpeg" alt="Clare" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <p style="margin-top: 10px;">Clare<br>Thinking Machines Lab</p>
+    <p style="margin-top: 10px;">Clare Birch<br>Thinking Machines Lab</p>
   </div>
     <div style="text-align: center;">
     <img src="/assets/daniel.jpeg" alt="Daniel" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <p style="margin-top: 10px;">Daniel<br>Unsloth</p>
+    <p style="margin-top: 10px;">Daniel Han<br>Unsloth</p>
   </div>
   <div style="text-align: center;">
     <img src="/assets/kathryn.jpeg" alt="Kathryn" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <p style="margin-top: 10px;">Kathryn<br>Skip</p>
+    <p style="margin-top: 10px;">Kathryn Zealand<br>Skip</p>
   </div>
   <div style="text-align: center;">
     <img src="/assets/sholto.jpg" alt="Sholto" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <p style="margin-top: 10px;">Sholto<br>Anthropic</p>
+    <p style="margin-top: 10px;">Sholto Douglas<br>Anthropic</p>
   </div>
   <div style="text-align: center;">
     <img src="/assets/tobin.jpeg" alt="Tobin" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
-    <p style="margin-top: 10px;">Tobin<br>Anthropic, Stanford</p>
+    <p style="margin-top: 10px;">Tobin South<br>Anthropic, Stanford</p>
   </div>
   <div style="text-align: center;">
     <div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden; margin: 0 auto;">
       <img src="/assets/tristan.jpeg" alt="Tristan" style="width: 100%; height: 100%; object-fit: cover; transform: scale(2);">
     </div>
-    <p style="margin-top: 10px;">Tristan<br>OpenAI</p>
+    <p style="margin-top: 10px;">Tristan Heywood<br>OpenAI</p>
   </div>
 </div>
