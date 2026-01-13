@@ -6,7 +6,7 @@ permalink: /anz-in-ai/
 
 # ANZ in AI Forum 2026
 
-Invited panelists/ guests with more to come. Final line-up and program to be confirmed.
+Invited panelists / guests. Full line-up and program to come!
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; margin: 30px 0;">
   <div style="text-align: center;">
@@ -28,6 +28,10 @@ Invited panelists/ guests with more to come. Final line-up and program to be con
   <div style="text-align: center;">
     <img src="/assets/kathryn.jpeg" alt="Kathryn" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <p style="margin-top: 10px;">Kathryn Zealand<br>Skip</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="/assets/maxine.jpeg" alt="Maxine" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <p style="margin-top: 10px;">Maxine Minter<br>Co Ventures</p>
   </div>
   <div style="text-align: center;">
     <img src="/assets/sholto.jpg" alt="Sholto" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
