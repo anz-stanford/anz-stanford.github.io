@@ -34,6 +34,12 @@ Invited panelists / guests. Full line-up and program to come!
     <p style="margin-top: 10px;">Maxine Minter<br>Co Ventures</p>
   </div>
   <div style="text-align: center;">
+    <div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden; margin: 0 auto;">
+      <img src="/assets/saron.jpg" alt="Saron" style="width: 100%; height: 100%; object-fit: cover; transform: scale(1.2) translateY(+10px);">
+    </div>
+    <p style="margin-top: 10px;">Saron Berhane<br>Blackbird</p>
+  </div>
+  <div style="text-align: center;">
     <img src="/assets/sholto.jpg" alt="Sholto" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <p style="margin-top: 10px;">Sholto Douglas<br>Anthropic</p>
   </div>
