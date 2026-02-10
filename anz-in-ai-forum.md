@@ -6,12 +6,16 @@ permalink: /anz-in-ai/
 
 # ANZ in AI Forum 2026
 
-Invited panelists / guests. Full line-up and program to come!
+Invited panelists / guests. For more details, see the [Luma](https://luma.com/oqay9x87)!
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; margin: 30px 0;">
   <div style="text-align: center;">
     <img src="/assets/casey.jpeg" alt="Casey" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <p style="margin-top: 10px;">Casey Flint<br>Reflection AI</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="/assets/charlie.jpg" alt="Charlie" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <p style="margin-top: 10px;">Charlie O'Neill<br>Parsed, Baseten</p>
   </div>
   <div style="text-align: center;">
     <img src="/assets/chris.jpeg" alt="Chris" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
@@ -52,5 +56,9 @@ Invited panelists / guests. Full line-up and program to come!
       <img src="/assets/tristan.jpeg" alt="Tristan" style="width: 100%; height: 100%; object-fit: cover; transform: scale(2);">
     </div>
     <p style="margin-top: 10px;">Tristan Heywood<br>OpenAI</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="/assets/tuhin.jpg" alt="Tuhin" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <p style="margin-top: 10px;">Tuhin Srivastava<br>Baseten</p>
   </div>
 </div>
