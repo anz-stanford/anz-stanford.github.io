@@ -6,7 +6,9 @@ permalink: /anz-in-ai/
 
 # ANZ in AI Forum 2026
 
-Invited panelists / guests. For more details, see the [Luma](https://luma.com/oqay9x87)!
+​​Stanford Australia and New Zealand Club is excited to host the inaugural ANZ in AI Forum on **Saturday March 7**, with panels and short talks featuring prominent Australians and New Zealanders in AI research, frontier labs, startups, and VC.
+
+For more details, see the [Luma](https://luma.com/oqay9x87)! Invited panelists:
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; margin: 30px 0;">
   <div style="text-align: center;">
@@ -32,6 +34,10 @@ Invited panelists / guests. For more details, see the [Luma](https://luma.com/oq
   <div style="text-align: center;">
     <img src="/assets/kathryn.jpeg" alt="Kathryn" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
     <p style="margin-top: 10px;">Kathryn Zealand<br>Skip</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="/assets/lachy.jpeg" alt="Lachy" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+    <p style="margin-top: 10px;">Lachy Groom<br>Physical Intelligence</p>
   </div>
   <div style="text-align: center;">
     <img src="/assets/maxine.jpeg" alt="Maxine" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
