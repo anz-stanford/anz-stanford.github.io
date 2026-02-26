@@ -11,7 +11,7 @@ permalink: /anz-in-ai/
 For more details, see the [Luma](https://luma.com/oqay9x87)! Invited panelists:
 
 <div style="margin: 30px 0;">
-  <!-- Row 1: 4 panellists -->
+  <!-- Row 1: 5 panellists -->
   <div style="display: flex; gap: 30px; justify-content: center; margin-bottom: 30px;">
     <div style="text-align: center; flex-shrink: 0;">
       <img src="/assets/casey.jpeg" alt="Casey" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
@@ -29,13 +29,17 @@ For more details, see the [Luma](https://luma.com/oqay9x87)! Invited panelists:
       <img src="/assets/clare.jpeg" alt="Clare" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
       <p style="margin-top: 10px;">Clare Birch<br>Thinking Machines</p>
     </div>
+    <div style="text-align: center; flex-shrink: 0;">
+      <img src="/assets/daniel.jpeg" alt="Daniel" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
+      <p style="margin-top: 10px;">Daniel Han<br>Unsloth</p>
+    </div>
   </div>
 
   <!-- Row 2: 5 panellists -->
   <div style="display: flex; gap: 30px; justify-content: center; margin-bottom: 30px;">
     <div style="text-align: center; flex-shrink: 0;">
-      <img src="/assets/daniel.jpeg" alt="Daniel" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
-      <p style="margin-top: 10px;">Daniel Han<br>Unsloth</p>
+      <img src="/assets/james.jpg" alt="James" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
+      <p style="margin-top: 10px;">James Alcorn<br>Lightspeed</p>
     </div>
     <div style="text-align: center; flex-shrink: 0;">
       <img src="/assets/kathryn.jpeg" alt="Kathryn" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
