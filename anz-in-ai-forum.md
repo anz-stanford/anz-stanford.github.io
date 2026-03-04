@@ -61,8 +61,12 @@ For more details, see the [Luma](https://luma.com/oqay9x87)! Invited panelists:
     </div>
   </div>
 
-  <!-- Row 3: 4 panellists -->
+  <!-- Row 3: 5 panellists -->
   <div style="display: flex; gap: 30px; justify-content: center;">
+    <div style="text-align: center; flex-shrink: 0;">
+      <img src="/assets/mudith.jpg" alt="Mudith" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
+      <p style="margin-top: 10px;">Mudith Jayasekara<br>Parsed, Baseten</p>
+    </div>
     <div style="text-align: center; flex-shrink: 0;">
       <img src="/assets/sholto.jpg" alt="Sholto" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
       <p style="margin-top: 10px;">Sholto Douglas<br>Anthropic</p>
@@ -76,10 +80,6 @@ For more details, see the [Luma](https://luma.com/oqay9x87)! Invited panelists:
         <img src="/assets/tristan.jpeg" alt="Tristan" style="width: 100%; height: 100%; object-fit: cover; transform: scale(2);">
       </div>
       <p style="margin-top: 10px;">Tristan Heywood<br>OpenAI</p>
-    </div>
-    <div style="text-align: center; flex-shrink: 0;">
-      <img src="/assets/tuhin.jpg" alt="Tuhin" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
-      <p style="margin-top: 10px;">Tuhin Srivastava<br>Baseten</p>
     </div>
   </div>
 </div>
