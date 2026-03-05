@@ -38,6 +38,12 @@ For more details, see the [Luma](https://luma.com/oqay9x87)! Invited panelists:
   <!-- Row 2: 5 panellists -->
   <div style="display: flex; gap: 30px; justify-content: center; margin-bottom: 30px;">
     <div style="text-align: center; flex-shrink: 0;">
+      <div style="width: 140px; height: 140px; border-radius: 50%; overflow: hidden; margin: 0 auto;">
+        <img src="/assets/david.jpg" alt="David" style="width: 100%; height: 100%; object-fit: cover; transform: scale(1.2) translateX(5px);">
+      </div>
+      <p style="margin-top: 10px;">David Booth<br>a16z</p>
+    </div>
+    <div style="text-align: center; flex-shrink: 0;">
       <img src="/assets/james.jpg" alt="James" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
       <p style="margin-top: 10px;">James Alcorn<br>Lightspeed</p>
     </div>
@@ -53,12 +59,6 @@ For more details, see the [Luma](https://luma.com/oqay9x87)! Invited panelists:
       <img src="/assets/maxine.jpeg" alt="Maxine" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
       <p style="margin-top: 10px;">Maxine Minter<br>Co Ventures</p>
     </div>
-    <div style="text-align: center; flex-shrink: 0;">
-      <div style="width: 140px; height: 140px; border-radius: 50%; overflow: hidden; margin: 0 auto;">
-        <img src="/assets/saron.jpg" alt="Saron" style="width: 100%; height: 100%; object-fit: cover; transform: scale(1.2) translateY(+10px);">
-      </div>
-      <p style="margin-top: 10px;">Saron Berhane<br>Blackbird</p>
-    </div>
   </div>
 
   <!-- Row 3: 5 panellists -->
@@ -66,6 +66,12 @@ For more details, see the [Luma](https://luma.com/oqay9x87)! Invited panelists:
     <div style="text-align: center; flex-shrink: 0;">
       <img src="/assets/mudith.jpg" alt="Mudith" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
       <p style="margin-top: 10px;">Mudith Jayasekara<br>Parsed, Baseten</p>
+    </div>
+    <div style="text-align: center; flex-shrink: 0;">
+      <div style="width: 140px; height: 140px; border-radius: 50%; overflow: hidden; margin: 0 auto;">
+        <img src="/assets/saron.jpg" alt="Saron" style="width: 100%; height: 100%; object-fit: cover; transform: scale(1.2) translateY(+10px);">
+      </div>
+      <p style="margin-top: 10px;">Saron Berhane<br>Blackbird</p>
     </div>
     <div style="text-align: center; flex-shrink: 0;">
       <img src="/assets/sholto.jpg" alt="Sholto" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
