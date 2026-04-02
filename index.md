@@ -31,3 +31,12 @@ Keep in touch with us via our mailing list.
 
 If you would like to help build our community or cohost events with your organisation, please reach out to the exec team at the address above.
 
+
+# Follow Us
+
+<span><svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" style="display:inline-block; vertical-align:text-bottom; margin-right:4px;"><path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865l8.875 11.633Z"/></svg> <a href="https://x.com/Stanford_ANZ">@Stanford_ANZ</a></span>
+
+Where we post our events and occasionally banter.
+
+
+<img src="/assets/logo.jpeg" alt="logo" style="width: 50%; display: block; margin: 0 auto;">

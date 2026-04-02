@@ -6,9 +6,9 @@ permalink: /anz-in-ai/
 
 # ANZ in AI Forum 2026
 
-​​Stanford Australia and New Zealand Club is excited to host the inaugural ANZ in AI Forum on **Saturday March 7**, with panels and short talks featuring prominent Australians and New Zealanders in AI research, frontier labs, startups, and VC.
+​​Stanford Australia and New Zealand Club hosted the inaugural ANZ in AI Forum on **Saturday March 7**, with panels and short talks featuring prominent Australians and New Zealanders in AI research, frontier labs, startups, and VC.
 
-For more details, see the [Luma](https://luma.com/oqay9x87)! Invited panelists:
+
 
 <div style="margin: 30px 0;">
   <!-- Row 1: 5 panellists -->
@@ -89,3 +89,30 @@ For more details, see the [Luma](https://luma.com/oqay9x87)! Invited panelists:
     </div>
   </div>
 </div>
+
+For more details, see the [Luma](https://luma.com/oqay9x87)! 
+
+
+![ANZ AI Forum](/assets/aiforum0.jpeg)
+
+![ANZ AI Forum](/assets/aiforum1.jpeg)
+
+![ANZ AI Forum](/assets/aiforum2.jpeg)
+
+![ANZ AI Forum](/assets/aiforum3.jpeg)
+
+![ANZ AI Forum](/assets/aiforum4.jpeg)
+
+![ANZ AI Forum](/assets/aiforum5.jpeg)
+
+![ANZ AI Forum](/assets/aiforum6.jpeg)
+
+![ANZ AI Forum](/assets/aiforum7.jpeg)
+
+![ANZ AI Forum](/assets/aiforum8.jpeg)
+
+![ANZ AI Forum](/assets/aiforum9.jpeg)
+
+![ANZ AI Forum](/assets/aiforum10.jpeg)
+
+![ANZ AI Forum](/assets/aiforum11.jpeg)
