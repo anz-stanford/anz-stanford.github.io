@@ -4,6 +4,7 @@ title: Past Events
 permalink: /past-events/
 ---
 
+# Past Events
 
 ## Lunch with Airtree Ventures
 
@@ -13,9 +14,9 @@ permalink: /past-events/
 
 Delighted to welcome [Airtree](https://www.airtree.vc/) to campus, where we gathered Aussie and Kiwi students, researchers, and friends for lunch by the museum. Airtree is a venture capital firm backing ANZ founders. Whether deep in research, classes, or build mode, it was great to chat about what everyone's working on -- thanks for hosting with us, Kate and Sid!
 
+<br>
 
 ## ANZ in AI Forum
-
 
 ![ANZ AI Forum](/assets/aiforum10.jpeg)
 
@@ -23,13 +24,11 @@ Delighted to welcome [Airtree](https://www.airtree.vc/) to campus, where we gath
 
 ![ANZ AI Forum](/assets/aiforum8.jpeg)
 
-
 We won't shut up about this. 15 amazing speakers across a day of panels and talks, sharing deep insights and spicy takes about AI, startups, and the Bay Area. And also what's up with ANZ's sovereign AI, talent pipeline, and data centres in the outback? 
 
 We're proud to have brought together so many old and new friends in Stanford and the Bay. Thanks to our sponsors: Stanford GSC, Stanford Speakers Bureau, and Blackbird VC. 
 
 Photo creds to Janet -- go [here](/anz-in-ai/) for more!
-
 
 <br>
 

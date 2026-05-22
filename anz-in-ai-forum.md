@@ -8,6 +8,8 @@ permalink: /anz-in-ai/
 
 ​​Stanford Australia and New Zealand Club hosted the inaugural ANZ in AI Forum on **Saturday March 7**, with panels and short talks featuring prominent Australians and New Zealanders in AI research, frontier labs, startups, and VC.
 
+For more details, see the [Luma](https://luma.com/oqay9x87)! 
+
 
 
 <div style="margin: 30px 0;">
@@ -15,23 +17,23 @@ permalink: /anz-in-ai/
   <div style="display: flex; gap: 30px; justify-content: center; margin-bottom: 30px;">
     <div style="text-align: center; flex-shrink: 0;">
       <img src="/assets/casey.jpeg" alt="Casey" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
-      <p style="margin-top: 10px;">Casey Flint<br>Reflection AI</p>
+      <p style="margin-top: 10px;"><span class="speaker-name">Casey Flint</span><br><span class="speaker-affiliation">Reflection AI</span></p>
     </div>
     <div style="text-align: center; flex-shrink: 0;">
       <img src="/assets/charlie.jpg" alt="Charlie" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
-      <p style="margin-top: 10px;">Charlie O'Neill<br>Parsed, Baseten</p>
+      <p style="margin-top: 10px;"><span class="speaker-name">Charlie O'Neill</span><br><span class="speaker-affiliation">Parsed, Baseten</span></p>
     </div>
     <div style="text-align: center; flex-shrink: 0;">
       <img src="/assets/chris.jpeg" alt="Chris" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
-      <p style="margin-top: 10px;">Chris Manning<br>Stanford, AIX Ventures</p>
+      <p style="margin-top: 10px;"><span class="speaker-name">Chris Manning</span><br><span class="speaker-affiliation">Stanford, AIX Ventures</span></p>
     </div>
     <div style="text-align: center; flex-shrink: 0;">
       <img src="/assets/clare.jpeg" alt="Clare" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
-      <p style="margin-top: 10px;">Clare Birch<br>Thinking Machines</p>
+      <p style="margin-top: 10px;"><span class="speaker-name">Clare Birch</span><br><span class="speaker-affiliation">Thinking Machines</span></p>
     </div>
     <div style="text-align: center; flex-shrink: 0;">
       <img src="/assets/daniel.jpeg" alt="Daniel" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
-      <p style="margin-top: 10px;">Daniel Han<br>Unsloth</p>
+      <p style="margin-top: 10px;"><span class="speaker-name">Daniel Han</span><br><span class="speaker-affiliation">Unsloth</span></p>
     </div>
   </div>
 
@@ -41,23 +43,23 @@ permalink: /anz-in-ai/
       <div style="width: 140px; height: 140px; border-radius: 50%; overflow: hidden; margin: 0 auto;">
         <img src="/assets/david.jpg" alt="David" style="width: 100%; height: 100%; object-fit: cover; transform: scale(1.2) translateX(5px);">
       </div>
-      <p style="margin-top: 10px;">David Booth<br>a16z</p>
+      <p style="margin-top: 10px;"><span class="speaker-name">David Booth</span><br><span class="speaker-affiliation">a16z</span></p>
     </div>
     <div style="text-align: center; flex-shrink: 0;">
       <img src="/assets/james.jpg" alt="James" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
-      <p style="margin-top: 10px;">James Alcorn<br>Lightspeed</p>
+      <p style="margin-top: 10px;"><span class="speaker-name">James Alcorn</span><br><span class="speaker-affiliation">Lightspeed</span></p>
     </div>
     <div style="text-align: center; flex-shrink: 0;">
       <img src="/assets/kathryn.jpeg" alt="Kathryn" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
-      <p style="margin-top: 10px;">Kathryn Zealand<br>Skip</p>
+      <p style="margin-top: 10px;"><span class="speaker-name">Kathryn Zealand</span><br><span class="speaker-affiliation">Skip</span></p>
     </div>
     <div style="text-align: center; flex-shrink: 0;">
       <img src="/assets/lachy.jpeg" alt="Lachy" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
-      <p style="margin-top: 10px;">Lachy Groom<br>Physical Intelligence</p>
+      <p style="margin-top: 10px;"><span class="speaker-name">Lachy Groom</span><br><span class="speaker-affiliation">Physical Intelligence</span></p>
     </div>
     <div style="text-align: center; flex-shrink: 0;">
       <img src="/assets/maxine.jpeg" alt="Maxine" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
-      <p style="margin-top: 10px;">Maxine Minter<br>Co Ventures</p>
+      <p style="margin-top: 10px;"><span class="speaker-name">Maxine Minter</span><br><span class="speaker-affiliation">Co Ventures</span></p>
     </div>
   </div>
 
@@ -65,33 +67,32 @@ permalink: /anz-in-ai/
   <div style="display: flex; gap: 30px; justify-content: center;">
     <div style="text-align: center; flex-shrink: 0;">
       <img src="/assets/mudith.jpg" alt="Mudith" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
-      <p style="margin-top: 10px;">Mudith Jayasekara<br>Parsed, Baseten</p>
+      <p style="margin-top: 10px;"><span class="speaker-name">Mudith Jayasekara</span><br><span class="speaker-affiliation">Parsed, Baseten</span></p>
     </div>
     <div style="text-align: center; flex-shrink: 0;">
       <div style="width: 140px; height: 140px; border-radius: 50%; overflow: hidden; margin: 0 auto;">
         <img src="/assets/saron.jpg" alt="Saron" style="width: 100%; height: 100%; object-fit: cover; transform: scale(1.2) translateY(+10px);">
       </div>
-      <p style="margin-top: 10px;">Saron Berhane<br>Blackbird</p>
+      <p style="margin-top: 10px;"><span class="speaker-name">Saron Berhane</span><br><span class="speaker-affiliation">Blackbird</span></p>
     </div>
     <div style="text-align: center; flex-shrink: 0;">
       <img src="/assets/sholto.jpg" alt="Sholto" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
-      <p style="margin-top: 10px;">Sholto Douglas<br>Anthropic</p>
+      <p style="margin-top: 10px;"><span class="speaker-name">Sholto Douglas</span><br><span class="speaker-affiliation">Anthropic</span></p>
     </div>
     <div style="text-align: center; flex-shrink: 0;">
       <img src="/assets/tobin.jpeg" alt="Tobin" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover;">
-      <p style="margin-top: 10px;">Tobin South<br>Anthropic, Stanford</p>
+      <p style="margin-top: 10px;"><span class="speaker-name">Tobin South</span><br><span class="speaker-affiliation">Anthropic, Stanford</span></p>
     </div>
     <div style="text-align: center; flex-shrink: 0;">
       <div style="width: 140px; height: 140px; border-radius: 50%; overflow: hidden; margin: 0 auto;">
         <img src="/assets/tristan.jpeg" alt="Tristan" style="width: 100%; height: 100%; object-fit: cover; transform: scale(2);">
       </div>
-      <p style="margin-top: 10px;">Tristan Heywood<br>OpenAI</p>
+      <p style="margin-top: 10px;"><span class="speaker-name">Tristan Heywood</span><br><span class="speaker-affiliation">OpenAI</span></p>
     </div>
   </div>
 </div>
 
-For more details, see the [Luma](https://luma.com/oqay9x87)! 
-
+<br>
 
 ![ANZ AI Forum](/assets/aiforum0.jpeg)
 

@@ -12,11 +12,11 @@ Welcome to the Australia and New Zealand Club at Stanford!
 
 We are a community of Australians, New Zealanders, and friends based at Stanford University. We bring together people from across the Tasman while sharing our cultures with the broader Stanford community.
 
-Our mission is to celebrate our home regions and foster meaningful connections between students and alumni. We host socials, cultural celebrations, and (keep tuned -- coming soon!) a forum discussion on AI and innovation, spotlighting ANZ folks in the Bay Area!
+Our mission is to celebrate our home regions and foster meaningful connections between students and alumni. We've hosted socials, cultural celebrations, and a forum on AI and innovation, spotlighting ANZ folks in the Bay Area!
 
 Whether you're looking to connect with fellow Aussies and Kiwis or catch up over some Tim Tams, we'd love to have you along.
 
-
+<br>
 
 # Mailing List
 
