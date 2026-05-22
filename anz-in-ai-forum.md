@@ -12,7 +12,7 @@ For more details, see the [Luma](https://luma.com/oqay9x87)!
 
 
 
-<div style="margin: 30px 0;">
+<div class="panellist-grid" style="margin: 30px 0;">
   <!-- Row 1: 5 panellists -->
   <div style="display: flex; gap: 30px; justify-content: center; margin-bottom: 30px;">
     <div style="text-align: center; flex-shrink: 0;">
