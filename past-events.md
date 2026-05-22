@@ -5,6 +5,15 @@ permalink: /past-events/
 ---
 
 
+## Lunch with Airtree Ventures
+
+![ANZ AI Forum](/assets/lunch_airtree_1.jpg)
+
+![ANZ AI Forum](/assets/lunch_airtree_2.jpg)
+
+Delighted to welcome [Airtree](https://www.airtree.vc/) to campus, where we gathered Aussie and Kiwi students, researchers, and friends for lunch by the museum. Airtree is a venture capital firm backing ANZ founders. Whether deep in research, classes, or build mode, it was great to chat about what everyone's working on -- thanks for hosting with us, Kate and Sid!
+
+
 ## ANZ in AI Forum
 
 
@@ -26,7 +35,7 @@ Photo creds to Janet -- go [here](/anz-in-ai/) for more!
 
 ## Thanksgiving
 
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 20px; margin-bottom: 1em;">
   <img src="/assets/tg1.jpg" alt="ANZ Thanksgiving" style="width: 48%;">
   <img src="/assets/tg2.jpg" alt="ANZ Thanksgiving" style="width: 48%;">
 </div>
