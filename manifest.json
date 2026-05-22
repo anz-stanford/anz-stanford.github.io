@@ -1,0 +1,22 @@
+{
+  "name": "Australia and New Zealand Club at Stanford",
+  "short_name": "ANZ Stanford",
+  "description": "Australia and New Zealand Club at Stanford",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/assets/favicon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
